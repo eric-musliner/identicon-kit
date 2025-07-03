@@ -24,8 +24,6 @@ A Cross-platform Swift package for generating unique, block-based identicon imag
   <img src="https://github.com/user-attachments/assets/201395ed-bc62-4c34-b270-99aa0f95d03a" style="width: 150px; height: auto; border: 1px solid #ccc; border-radius: 8px;">
   <img src="https://github.com/user-attachments/assets/38c17324-5c13-49a2-86cb-6cbb73e50515" style="width: 150px; height: auto; border: 1px solid #ccc; border-radius: 8px;">
   <img src="https://github.com/user-attachments/assets/6d8234d7-2833-4d1c-a5c8-8f36822c14ee" style="width: 150px; height: auto; border: 1px solid #ccc; border-radius: 8px;">
-  <img src="https://github.com/user-attachments/assets/1da3cd2d-d537-481e-9e46-566ac6acbb7b" style="width: 150px; height: auto; border: 1px solid #ccc; border-radius: 8px;">
-  <img src="https://github.com/user-attachments/assets/a3f24ceb-50a5-481f-b261-d44c50984330" style="width: 150px; height: auto; border: 1px solid #ccc; border-radius: 8px;">
   <img src="https://github.com/user-attachments/assets/4f0b537d-e54d-4ec2-8bcd-0bb6bf5df5c9" style="width: 150px; height: auto; border: 1px solid #ccc; border-radius: 8px;">
 </div>
 
