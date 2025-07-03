@@ -9,7 +9,6 @@ A Cross-platform Swift package for generating unique, block-based identicon imag
 * **Customizable Identicons:** Generate unique blocky avatars from various input types (e.g., user IDs, email hashes).
 * **Pure Swift:** Designed to work seamlessly across Swift platforms, including server-side environments like Vapor.
 * **Lightweight:** Minimal dependencies, ensuring a small footprint.
-* **[Add more specific features here, e.g., "Output as PNG/SVG data," "Customizable colors," "Adjustable grid size"]**
 
 ---
 
@@ -27,6 +26,14 @@ dependencies: [
 ]
 ```
 
+## Usage
+
+To create an Identicon in svg format
+
+```swift
+  let generator = IdenticonKit()
+  let svg = generator.generateSvg(from: "test@example.com")
+```
 
 ## Development
 
