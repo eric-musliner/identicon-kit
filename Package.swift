@@ -26,7 +26,10 @@ let package = Package(
         ),
         .testTarget(
             name: "IdenticonKitTests",
-            dependencies: ["IdenticonKit"]
+            dependencies: ["IdenticonKit"],
+            resources: [
+                .process("Resources")
+            ]
         ),
     ]
 )

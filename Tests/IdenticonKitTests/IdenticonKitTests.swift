@@ -1,23 +1,89 @@
+import Foundation
 import Testing
+
 @testable import IdenticonKit
 
-@Test 
-func testSvgGeneration() async throws {
+@Test
+func testGenerateSvgRounded() async throws {
     let generator = IdenticonKit()
     let svg = generator.generateSvg(from: "test@example.com")
-    print(svg)
+
+    let expected = try loadFixture("test_rounded.svg")
+    #expect(normalizeWhitespace(expected) == normalizeWhitespace(svg))
 }
 
- @Test 
- func testSvgGenerationChangeResolution() async throws {
-     let generator = IdenticonKit()
-     let svg = generator.generateSvg(from: "test@example.com", size: 10)
-     print(svg)
- }
+@Test
+func testGenerateSvgRounded2() async throws {
+    let generator = IdenticonKit()
+    let svg = generator.generateSvg(from: "123@gmail.com")
 
- @Test 
- func testSvgGenerationDifferentColor() async throws {
-     let generator = IdenticonKit()
-     let svg = generator.generateSvg(from: "user@example.com", size: 10)
-     print(svg)
- }
+    let expected = try loadFixture("test_rounded2.svg")
+    #expect(normalizeWhitespace(expected) == normalizeWhitespace(svg))
+}
+
+@Test
+func testGenerateSvgRoundedLarge() async throws {
+    let generator = IdenticonKit()
+    let svg = generator.generateSvg(from: "test@example.com", size: 10)
+
+    let expected = try loadFixture("test_rounded_large.svg")
+    #expect(normalizeWhitespace(expected) == normalizeWhitespace(svg))
+}
+
+@Test
+func testGenerateSvgAngledSmall() async throws {
+    let generator = IdenticonKit()
+    let svg = generator.generateSvg(from: "test_user@mail.com", size: 4)
+
+    let expected = try loadFixture("test_angled_small.svg")
+    #expect(normalizeWhitespace(expected) == normalizeWhitespace(svg))
+}
+
+@Test
+func testSvgGenerationDifferentColor() async throws {
+    let generator = IdenticonKit()
+    let svg = generator.generateSvg(from: "123_user@outlook.us", size: 10)
+
+    let expected = try loadFixture("test_angled_large.svg")
+    #expect(normalizeWhitespace(expected) == normalizeWhitespace(svg))
+}
+
+@Test
+func testGenerateSvgAngled2() async throws {
+    let generator = IdenticonKit()
+    let svg = generator.generateSvg(from: "biz@email.us")
+
+    let expected = try loadFixture("test_angled.svg")
+    #expect(normalizeWhitespace(expected) == normalizeWhitespace(svg))
+}
+
+@Test
+func testGenerateSvgDots() async throws {
+    let generator = IdenticonKit()
+    let svg = generator.generateSvg(from: "short@blah.mil")
+
+    let expected = try loadFixture("test_dots.svg")
+    #expect(normalizeWhitespace(expected) == normalizeWhitespace(svg))
+}
+
+/// Load expected SVG from test resources
+private func loadFixture(_ name: String) throws -> String {
+    let file = #filePath
+    let dir = URL(fileURLWithPath: file)
+        .deletingLastPathComponent()
+        .appendingPathComponent("Resources")
+    let path = dir.appendingPathComponent(name)
+
+    return try String(contentsOf: path, encoding: .utf8)
+}
+
+/// Normalize whitespace for stable comparison
+private func normalizeWhitespace(_ string: String) -> String {
+    string
+        .replacingOccurrences(
+            of: "\\s+",
+            with: " ",
+            options: .regularExpression
+        )
+        .trimmingCharacters(in: .whitespacesAndNewlines)
+}
