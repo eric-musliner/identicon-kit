@@ -48,11 +48,10 @@ dependencies: [
 To create an Identicon in svg format
 
 ```swift
-  let generator = IdenticonKit()
-  let svg = generator.generateSvg(from: "test@example.com")
+  let svg = IdenticonKit.generateSvg(from: "test@example.com")
 
-  // Specify larger grid of elements
-  let svg = generator.generate(from: "test@example.com", size: 8)
+  // Specify larger grid of elements (.xsmall, .small, .medium, .large)
+  let svg = IdenticonKit.generate(from: "test@example.com", size: .medium)
 ```
 
 ## Development
