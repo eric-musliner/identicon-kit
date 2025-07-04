@@ -5,8 +5,7 @@ import Testing
 
 @Test
 func testGenerateSvgRounded() async throws {
-    let generator = IdenticonKit()
-    let svg = generator.generateSvg(from: "test@example.com")
+    let svg = IdenticonKit.generateSvg(from: "test@example.com")
 
     let expected = try loadFixture("test_rounded.svg")
     #expect(normalizeWhitespace(expected) == normalizeWhitespace(svg))
@@ -14,8 +13,7 @@ func testGenerateSvgRounded() async throws {
 
 @Test
 func testGenerateSvgRounded2() async throws {
-    let generator = IdenticonKit()
-    let svg = generator.generateSvg(from: "123@gmail.com")
+    let svg = IdenticonKit.generateSvg(from: "123@gmail.com")
 
     let expected = try loadFixture("test_rounded2.svg")
     #expect(normalizeWhitespace(expected) == normalizeWhitespace(svg))
@@ -23,8 +21,7 @@ func testGenerateSvgRounded2() async throws {
 
 @Test
 func testGenerateSvgRoundedLarge() async throws {
-    let generator = IdenticonKit()
-    let svg = generator.generateSvg(from: "test@example.com", size: 10)
+    let svg = IdenticonKit.generateSvg(from: "test@example.com", size: .large)
 
     let expected = try loadFixture("test_rounded_large.svg")
     #expect(normalizeWhitespace(expected) == normalizeWhitespace(svg))
@@ -32,8 +29,7 @@ func testGenerateSvgRoundedLarge() async throws {
 
 @Test
 func testGenerateSvgAngledSmall() async throws {
-    let generator = IdenticonKit()
-    let svg = generator.generateSvg(from: "test_user@mail.com", size: 4)
+    let svg = IdenticonKit.generateSvg(from: "test_user@mail.com", size: .xsmall)
 
     let expected = try loadFixture("test_angled_small.svg")
     #expect(normalizeWhitespace(expected) == normalizeWhitespace(svg))
@@ -41,8 +37,7 @@ func testGenerateSvgAngledSmall() async throws {
 
 @Test
 func testSvgGenerationDifferentColor() async throws {
-    let generator = IdenticonKit()
-    let svg = generator.generateSvg(from: "123_user@outlook.us", size: 10)
+    let svg = IdenticonKit.generateSvg(from: "123_user@outlook.us", size: .large)
 
     let expected = try loadFixture("test_angled_large.svg")
     #expect(normalizeWhitespace(expected) == normalizeWhitespace(svg))
@@ -50,8 +45,7 @@ func testSvgGenerationDifferentColor() async throws {
 
 @Test
 func testGenerateSvgAngled2() async throws {
-    let generator = IdenticonKit()
-    let svg = generator.generateSvg(from: "biz@email.us")
+    let svg = IdenticonKit.generateSvg(from: "biz@email.us")
 
     let expected = try loadFixture("test_angled.svg")
     #expect(normalizeWhitespace(expected) == normalizeWhitespace(svg))
@@ -59,8 +53,7 @@ func testGenerateSvgAngled2() async throws {
 
 @Test
 func testGenerateSvgDots() async throws {
-    let generator = IdenticonKit()
-    let svg = generator.generateSvg(from: "short@blah.mil")
+    let svg = IdenticonKit.generateSvg(from: "short@blah.mil")
 
     let expected = try loadFixture("test_dots.svg")
     #expect(normalizeWhitespace(expected) == normalizeWhitespace(svg))
