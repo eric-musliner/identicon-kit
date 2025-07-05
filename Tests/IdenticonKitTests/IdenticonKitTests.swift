@@ -23,31 +23,32 @@ func testGenerateSvgRounded2() async throws {
 func testGenerateSvgRoundedLarge() async throws {
     let svg = IdenticonKit.generateSvg(from: "test@example.com", size: .large)
 
+    print(svg)
     let expected = try loadFixture("test_rounded_large.svg")
     #expect(normalizeWhitespace(expected) == normalizeWhitespace(svg))
 }
 
 @Test
-func testGenerateSvgAngledSmall() async throws {
+func testGenerateSvgSharpSmall() async throws {
     let svg = IdenticonKit.generateSvg(from: "test_user@mail.com", size: .xsmall)
 
-    let expected = try loadFixture("test_angled_small.svg")
+    let expected = try loadFixture("test_sharp_small.svg")
     #expect(normalizeWhitespace(expected) == normalizeWhitespace(svg))
 }
 
 @Test
-func testSvgGenerationDifferentColor() async throws {
+func testGenerateSvgSharpLarge() async throws {
     let svg = IdenticonKit.generateSvg(from: "123_user@outlook.us", size: .large)
 
-    let expected = try loadFixture("test_angled_large.svg")
+    let expected = try loadFixture("test_sharp_large.svg")
     #expect(normalizeWhitespace(expected) == normalizeWhitespace(svg))
 }
 
 @Test
-func testGenerateSvgAngled2() async throws {
+func testGenerateSvgSharp() async throws {
     let svg = IdenticonKit.generateSvg(from: "biz@email.us")
 
-    let expected = try loadFixture("test_angled.svg")
+    let expected = try loadFixture("test_sharp.svg")
     #expect(normalizeWhitespace(expected) == normalizeWhitespace(svg))
 }
 

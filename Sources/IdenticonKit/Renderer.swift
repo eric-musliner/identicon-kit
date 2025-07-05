@@ -30,7 +30,7 @@ struct Renderer {
     public func renderSvg() -> String {
         let totalSize = gridSize * iconSize
         var svg = """
-            <svg xmlns="http://www.w3.org/2000/svg" width="\(totalSize)" height="\(totalSize)" viewBox="0 0 \(totalSize) \(totalSize)"><rect width="100%" height="100%" fill="#fff"/>
+            <svg xmlns="http://www.w3.org/2000/svg" shape-rendering="crispEdges" width="\(totalSize)" height="\(totalSize)" viewBox="0 0 \(totalSize) \(totalSize)"><rect width="100%" height="100%" fill="#fff"/>
             """
 
         // Create symmetrical pattern using first N bytes of hash
@@ -120,10 +120,12 @@ struct Renderer {
         fill: String,
         emptyFill: String
     ) -> String {
-        let x1 = x
-        let y1 = y
-        let x2 = x + size
-        let y2 = y + size
+        let overlap = 0.2
+        let x1 = Double(x) - overlap
+        let y1 = Double(y) - overlap
+        let adjustedSize = Double(size) + (overlap * 2)
+        let x2 = Double(x) + adjustedSize
+        let y2 = Double(y) + adjustedSize
         let cx = x + size / 2
         let cy = y + size / 2
         let r = size / 2
@@ -132,56 +134,56 @@ struct Renderer {
         case .simple:
             if shape == .empty {
                 return
-                    "<rect x=\"\(x1)\" y=\"\(y1)\" width=\"\(size)\" height=\"\(size)\" fill=\"\(emptyFill)\"/>"
+                    "<rect x=\"\(x1)\" y=\"\(y1)\" width=\"\(adjustedSize)\" height=\"\(adjustedSize)\" fill=\"\(emptyFill)\"/>"
             }
             return
-                "<rect x=\"\(x1)\" y=\"\(y1)\" width=\"\(size)\" height=\"\(size)\" fill=\"\(fill)\"/>"
+                "<rect x=\"\(x1)\" y=\"\(y1)\" width=\"\(adjustedSize)\" height=\"\(adjustedSize)\" fill=\"\(fill)\"/>"
         case .sharp:
             switch shape {
             case .square:
                 return
-                    "<rect x=\"\(x1)\" y=\"\(y1)\" width=\"\(size)\" height=\"\(size)\" fill=\"\(fill)\"/>"
+                    "<rect x=\"\(x1)\" y=\"\(y1)\" width=\"\(adjustedSize)\" height=\"\(adjustedSize)\" fill=\"\(fill)\"/>"
             case .topLeft:
                 return """
                     <g>
-                        <rect x="\(x1)" y="\(y1)" width="\(size)" height="\(size)" fill="\(emptyFill)"/>
+                        <rect x="\(x1)" y="\(y1)" width="\(adjustedSize)" height="\(adjustedSize)" fill="\(emptyFill)"/>
                         <path d="M \(x1) \(y1) L \(x2) \(y1) L \(x1) \(y2) Z" fill="\(fill)"/>
                     </g>
                     """
             case .topRight:
                 return """
                     <g>
-                        <rect x="\(x1)" y="\(y1)" width="\(size)" height="\(size)" fill="\(emptyFill)"/>
+                        <rect x="\(x1)" y="\(y1)" width="\(adjustedSize)" height="\(adjustedSize)" fill="\(emptyFill)"/>
                         <path d="M \(x2) \(y1) L \(x2) \(y2) L \(x1) \(y1) Z" fill="\(fill)"/>
                     </g>
                     """
             case .bottomLeft:
                 return """
                     <g>
-                        <rect x="\(x1)" y="\(y1)" width="\(size)" height="\(size)" fill="\(emptyFill)"/>
+                        <rect x="\(x1)" y="\(y1)" width="\(adjustedSize)" height="\(adjustedSize)" fill="\(emptyFill)"/>
                         <path d="M \(x1) \(y2) L \(x2) \(y2) L \(x1) \(y1) Z" fill="\(fill)"/>
                     </g>
                     """
             case .bottomRight:
                 return """
                     <g>
-                        <rect x="\(x1)" y="\(y1)" width="\(size)" height="\(size)" fill="\(emptyFill)"/>
+                        <rect x="\(x1)" y="\(y1)" width="\(adjustedSize)" height="\(adjustedSize)" fill="\(emptyFill)"/>
                         <path d="M \(x2) \(y1) L \(x2) \(y2) L \(x1) \(y2) Z" fill="\(fill)"/>
                     </g>
                     """
             case .empty:
                 return
-                    "<rect x=\"\(x1)\" y=\"\(y1)\" width=\"\(size)\" height=\"\(size)\" fill=\"\(emptyFill)\"/>"
+                    "<rect x=\"\(x1)\" y=\"\(y1)\" width=\"\(adjustedSize)\" height=\"\(adjustedSize)\" fill=\"\(emptyFill)\"/>"
             }
 
         case .dots:
             if shape == .empty {
                 return
-                    "<rect x=\"\(x1)\" y=\"\(y1)\" width=\"\(size)\" height=\"\(size)\" fill=\"\(emptyFill)\"/>"
+                    "<rect x=\"\(x1)\" y=\"\(y1)\" width=\"\(adjustedSize)\" height=\"\(adjustedSize)\" fill=\"\(emptyFill)\"/>"
             }
             return """
                 <g>
-                    <rect x="\(x1)" y="\(y1)" width="\(size)" height="\(size)" fill="\(emptyFill)"/>
+                    <rect x="\(x1)" y="\(y1)" width="\(adjustedSize)" height="\(adjustedSize)" fill="\(emptyFill)"/>
                     <circle cx=\"\(cx)\" cy=\"\(cy)\" r=\"\(r)\" fill=\"\(fill)\"/>
                 </g>
                 """
@@ -191,37 +193,37 @@ struct Renderer {
             case .topLeft:
                 return """
                     <g>
-                        <rect x="\(x)" y="\(y)" width="\(size)" height="\(size)" fill="\(emptyFill)"/>
-                        <path d="M \(x) \(y + size) A \(size) \(size) 0 0 1 \(x + size) \(y) L \(x) \(y) Z" fill="\(fill)"/>
+                        <rect x="\(x)" y="\(y)" width="\(adjustedSize)" height="\(adjustedSize)" fill="\(emptyFill)"/>
+                        <path d="M \(x) \(Double(y) + adjustedSize) A \(adjustedSize) \(adjustedSize) 0 0 1 \(Double(x) + adjustedSize) \(y) L \(x) \(y) Z" fill="\(fill)"/>
                     </g>
                     """
             case .topRight:
                 return """
                     <g>
-                        <rect x="\(x)" y="\(y)" width="\(size)" height="\(size)" fill="\(emptyFill)"/>
-                        <path d="M \(x + size) \(y + size) A \(size) \(size) 0 0 1 \(x) \(y) L \(x + size) \(y) Z" fill="\(fill)"/>
+                        <rect x="\(x)" y="\(y)" width="\(adjustedSize)" height="\(adjustedSize)" fill="\(emptyFill)"/>
+                        <path d="M \(Double(x) + adjustedSize) \(Double(y) + adjustedSize) A \(size) \(size) 0 0 1 \(x) \(y) L \(x + size) \(y) Z" fill="\(fill)"/>
                     </g>
                     """
             case .bottomLeft:
                 return """
                     <g>
-                        <rect x="\(x)" y="\(y)" width="\(size)" height="\(size)" fill="\(emptyFill)"/>
-                        <path d="M \(x) \(y) A \(size) \(size) 0 0 1 \(x + size) \(y + size) L \(x) \(y + size) Z" fill="\(fill)"/>
+                        <rect x="\(x)" y="\(y)" width="\(adjustedSize)" height="\(adjustedSize)" fill="\(emptyFill)"/>
+                        <path d="M \(x) \(y) A \(size) \(adjustedSize) 0 0 1 \(x + size) \(Double(y) + adjustedSize) L \(x) \(Double(y) + adjustedSize) Z" fill="\(fill)"/>
                     </g>
                     """
             case .bottomRight:
                 return """
                     <g>
-                        <rect x="\(x)" y="\(y)" width="\(size)" height="\(size)" fill="\(emptyFill)"/>
-                        <path d="M \(x + size) \(y) A \(size) \(size) 0 0 1 \(x) \(y + size) L \(x + size) \(y + size) Z" fill="\(fill)"/>
+                        <rect x="\(x)" y="\(y)" width="\(adjustedSize)" height="\(adjustedSize)" fill="\(emptyFill)"/>
+                        <path d="M \(Double(x) + adjustedSize) \(y) A \(adjustedSize) \(adjustedSize) 0 0 1 \(x) \(Double(y) + adjustedSize) L \(Double(x) + adjustedSize) \(Double(y) + adjustedSize) Z" fill="\(fill)"/>
                     </g>
                     """
             case .square:
                 return
-                    "<rect x=\"\(x)\" y=\"\(y)\" width=\"\(size)\" height=\"\(size)\" fill=\"\(fill)\"/>"
+                    "<rect x=\"\(x)\" y=\"\(y)\" width=\"\(adjustedSize)\" height=\"\(adjustedSize)\" fill=\"\(fill)\"/>"
             case .empty:
                 return
-                    "<rect x=\"\(x1)\" y=\"\(y1)\" width=\"\(size)\" height=\"\(size)\" fill=\"\(emptyFill)\"/>"
+                    "<rect x=\"\(x1)\" y=\"\(y1)\" width=\"\(adjustedSize)\" height=\"\(adjustedSize)\" fill=\"\(emptyFill)\"/>"
             }
         }
     }
