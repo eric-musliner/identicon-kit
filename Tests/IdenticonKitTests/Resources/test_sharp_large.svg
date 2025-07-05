@@ -1,0 +1,413 @@
+<svg xmlns="http://www.w3.org/2000/svg" shape-rendering="crispEdges" width="400" height="400" viewBox="0 0 400 400">
+  <rect width="100%" height="100%" fill="#fff"/>
+  <g>
+    <rect x="-0.2" y="-0.2" width="40.4" height="40.4" fill="#bed2f3"/>
+    <path d="M 40.4 -0.2 L 40.4 40.4 L -0.2 -0.2 Z" fill="#5e8fe1"/>
+  </g>
+  <g transform="translate(400,0) scale(-1,1)">
+    <g>
+      <rect x="-0.2" y="-0.2" width="40.4" height="40.4" fill="#bed2f3"/>
+      <path d="M 40.4 -0.2 L 40.4 40.4 L -0.2 -0.2 Z" fill="#5e8fe1"/>
+    </g>
+  </g>
+  <g>
+    <rect x="39.8" y="-0.2" width="40.4" height="40.4" fill="#bed2f3"/>
+    <path d="M 39.8 -0.2 L 80.4 -0.2 L 39.8 40.4 Z" fill="#5e8fe1"/>
+  </g>
+  <g transform="translate(400,0) scale(-1,1)">
+    <g>
+      <rect x="39.8" y="-0.2" width="40.4" height="40.4" fill="#bed2f3"/>
+      <path d="M 39.8 -0.2 L 80.4 -0.2 L 39.8 40.4 Z" fill="#5e8fe1"/>
+    </g>
+  </g>
+  <g>
+    <rect x="79.8" y="-0.2" width="40.4" height="40.4" fill="#bed2f3"/>
+    <path d="M 120.4 -0.2 L 120.4 40.4 L 79.8 40.4 Z" fill="#5e8fe1"/>
+  </g>
+  <g transform="translate(400,0) scale(-1,1)">
+    <g>
+      <rect x="79.8" y="-0.2" width="40.4" height="40.4" fill="#bed2f3"/>
+      <path d="M 120.4 -0.2 L 120.4 40.4 L 79.8 40.4 Z" fill="#5e8fe1"/>
+    </g>
+  </g>
+  <rect x="119.8" y="-0.2" width="40.4" height="40.4" fill="#5e8fe1"/>
+  <g transform="translate(400,0) scale(-1,1)">
+    <rect x="119.8" y="-0.2" width="40.4" height="40.4" fill="#5e8fe1"/>
+  </g>
+  <g>
+    <rect x="159.8" y="-0.2" width="40.4" height="40.4" fill="#bed2f3"/>
+    <path d="M 159.8 -0.2 L 200.4 -0.2 L 159.8 40.4 Z" fill="#5e8fe1"/>
+  </g>
+  <g transform="translate(400,0) scale(-1,1)">
+    <g>
+      <rect x="159.8" y="-0.2" width="40.4" height="40.4" fill="#bed2f3"/>
+      <path d="M 159.8 -0.2 L 200.4 -0.2 L 159.8 40.4 Z" fill="#5e8fe1"/>
+    </g>
+  </g>
+  <g>
+    <rect x="-0.2" y="39.8" width="40.4" height="40.4" fill="#bed2f3"/>
+    <path d="M 40.4 39.8 L 40.4 80.4 L -0.2 80.4 Z" fill="#5e8fe1"/>
+  </g>
+  <g transform="translate(400,0) scale(-1,1)">
+    <g>
+      <rect x="-0.2" y="39.8" width="40.4" height="40.4" fill="#bed2f3"/>
+      <path d="M 40.4 39.8 L 40.4 80.4 L -0.2 80.4 Z" fill="#5e8fe1"/>
+    </g>
+  </g>
+  <g>
+    <rect x="39.8" y="39.8" width="40.4" height="40.4" fill="#bed2f3"/>
+    <path d="M 80.4 39.8 L 80.4 80.4 L 39.8 80.4 Z" fill="#5e8fe1"/>
+  </g>
+  <g transform="translate(400,0) scale(-1,1)">
+    <g>
+      <rect x="39.8" y="39.8" width="40.4" height="40.4" fill="#bed2f3"/>
+      <path d="M 80.4 39.8 L 80.4 80.4 L 39.8 80.4 Z" fill="#5e8fe1"/>
+    </g>
+  </g>
+  <g>
+    <rect x="79.8" y="39.8" width="40.4" height="40.4" fill="#bed2f3"/>
+    <path d="M 79.8 39.8 L 120.4 39.8 L 79.8 80.4 Z" fill="#5e8fe1"/>
+  </g>
+  <g transform="translate(400,0) scale(-1,1)">
+    <g>
+      <rect x="79.8" y="39.8" width="40.4" height="40.4" fill="#bed2f3"/>
+      <path d="M 79.8 39.8 L 120.4 39.8 L 79.8 80.4 Z" fill="#5e8fe1"/>
+    </g>
+  </g>
+  <g>
+    <rect x="119.8" y="39.8" width="40.4" height="40.4" fill="#bed2f3"/>
+    <path d="M 160.4 39.8 L 160.4 80.4 L 119.8 39.8 Z" fill="#5e8fe1"/>
+  </g>
+  <g transform="translate(400,0) scale(-1,1)">
+    <g>
+      <rect x="119.8" y="39.8" width="40.4" height="40.4" fill="#bed2f3"/>
+      <path d="M 160.4 39.8 L 160.4 80.4 L 119.8 39.8 Z" fill="#5e8fe1"/>
+    </g>
+  </g>
+  <rect x="159.8" y="39.8" width="40.4" height="40.4" fill="#5e8fe1"/>
+  <g transform="translate(400,0) scale(-1,1)">
+    <rect x="159.8" y="39.8" width="40.4" height="40.4" fill="#5e8fe1"/>
+  </g>
+  <g>
+    <rect x="-0.2" y="79.8" width="40.4" height="40.4" fill="#bed2f3"/>
+    <path d="M 40.4 79.8 L 40.4 120.4 L -0.2 120.4 Z" fill="#5e8fe1"/>
+  </g>
+  <g transform="translate(400,0) scale(-1,1)">
+    <g>
+      <rect x="-0.2" y="79.8" width="40.4" height="40.4" fill="#bed2f3"/>
+      <path d="M 40.4 79.8 L 40.4 120.4 L -0.2 120.4 Z" fill="#5e8fe1"/>
+    </g>
+  </g>
+  <g>
+    <rect x="39.8" y="79.8" width="40.4" height="40.4" fill="#bed2f3"/>
+    <path d="M 39.8 79.8 L 80.4 79.8 L 39.8 120.4 Z" fill="#5e8fe1"/>
+  </g>
+  <g transform="translate(400,0) scale(-1,1)">
+    <g>
+      <rect x="39.8" y="79.8" width="40.4" height="40.4" fill="#bed2f3"/>
+      <path d="M 39.8 79.8 L 80.4 79.8 L 39.8 120.4 Z" fill="#5e8fe1"/>
+    </g>
+  </g>
+  <g>
+    <rect x="79.8" y="79.8" width="40.4" height="40.4" fill="#bed2f3"/>
+    <path d="M 79.8 79.8 L 120.4 79.8 L 79.8 120.4 Z" fill="#5e8fe1"/>
+  </g>
+  <g transform="translate(400,0) scale(-1,1)">
+    <g>
+      <rect x="79.8" y="79.8" width="40.4" height="40.4" fill="#bed2f3"/>
+      <path d="M 79.8 79.8 L 120.4 79.8 L 79.8 120.4 Z" fill="#5e8fe1"/>
+    </g>
+  </g>
+  <g>
+    <rect x="119.8" y="79.8" width="40.4" height="40.4" fill="#bed2f3"/>
+    <path d="M 160.4 79.8 L 160.4 120.4 L 119.8 120.4 Z" fill="#5e8fe1"/>
+  </g>
+  <g transform="translate(400,0) scale(-1,1)">
+    <g>
+      <rect x="119.8" y="79.8" width="40.4" height="40.4" fill="#bed2f3"/>
+      <path d="M 160.4 79.8 L 160.4 120.4 L 119.8 120.4 Z" fill="#5e8fe1"/>
+    </g>
+  </g>
+  <rect x="159.8" y="79.8" width="40.4" height="40.4" fill="#bed2f3"/>
+  <g transform="translate(400,0) scale(-1,1)">
+    <rect x="159.8" y="79.8" width="40.4" height="40.4" fill="#bed2f3"/>
+  </g>
+  <g>
+    <rect x="-0.2" y="119.8" width="40.4" height="40.4" fill="#bed2f3"/>
+    <path d="M -0.2 119.8 L 40.4 119.8 L -0.2 160.4 Z" fill="#5e8fe1"/>
+  </g>
+  <g transform="translate(400,0) scale(-1,1)">
+    <g>
+      <rect x="-0.2" y="119.8" width="40.4" height="40.4" fill="#bed2f3"/>
+      <path d="M -0.2 119.8 L 40.4 119.8 L -0.2 160.4 Z" fill="#5e8fe1"/>
+    </g>
+  </g>
+  <g>
+    <rect x="39.8" y="119.8" width="40.4" height="40.4" fill="#bed2f3"/>
+    <path d="M 80.4 119.8 L 80.4 160.4 L 39.8 119.8 Z" fill="#5e8fe1"/>
+  </g>
+  <g transform="translate(400,0) scale(-1,1)">
+    <g>
+      <rect x="39.8" y="119.8" width="40.4" height="40.4" fill="#bed2f3"/>
+      <path d="M 80.4 119.8 L 80.4 160.4 L 39.8 119.8 Z" fill="#5e8fe1"/>
+    </g>
+  </g>
+  <g>
+    <rect x="79.8" y="119.8" width="40.4" height="40.4" fill="#bed2f3"/>
+    <path d="M 79.8 119.8 L 120.4 119.8 L 79.8 160.4 Z" fill="#5e8fe1"/>
+  </g>
+  <g transform="translate(400,0) scale(-1,1)">
+    <g>
+      <rect x="79.8" y="119.8" width="40.4" height="40.4" fill="#bed2f3"/>
+      <path d="M 79.8 119.8 L 120.4 119.8 L 79.8 160.4 Z" fill="#5e8fe1"/>
+    </g>
+  </g>
+  <g>
+    <rect x="119.8" y="119.8" width="40.4" height="40.4" fill="#bed2f3"/>
+    <path d="M 160.4 119.8 L 160.4 160.4 L 119.8 119.8 Z" fill="#5e8fe1"/>
+  </g>
+  <g transform="translate(400,0) scale(-1,1)">
+    <g>
+      <rect x="119.8" y="119.8" width="40.4" height="40.4" fill="#bed2f3"/>
+      <path d="M 160.4 119.8 L 160.4 160.4 L 119.8 119.8 Z" fill="#5e8fe1"/>
+    </g>
+  </g>
+  <g>
+    <rect x="159.8" y="119.8" width="40.4" height="40.4" fill="#bed2f3"/>
+    <path d="M 159.8 160.4 L 200.4 160.4 L 159.8 119.8 Z" fill="#5e8fe1"/>
+  </g>
+  <g transform="translate(400,0) scale(-1,1)">
+    <g>
+      <rect x="159.8" y="119.8" width="40.4" height="40.4" fill="#bed2f3"/>
+      <path d="M 159.8 160.4 L 200.4 160.4 L 159.8 119.8 Z" fill="#5e8fe1"/>
+    </g>
+  </g>
+  <g>
+    <rect x="-0.2" y="159.8" width="40.4" height="40.4" fill="#bed2f3"/>
+    <path d="M 40.4 159.8 L 40.4 200.4 L -0.2 200.4 Z" fill="#5e8fe1"/>
+  </g>
+  <g transform="translate(400,0) scale(-1,1)">
+    <g>
+      <rect x="-0.2" y="159.8" width="40.4" height="40.4" fill="#bed2f3"/>
+      <path d="M 40.4 159.8 L 40.4 200.4 L -0.2 200.4 Z" fill="#5e8fe1"/>
+    </g>
+  </g>
+  <rect x="39.8" y="159.8" width="40.4" height="40.4" fill="#5e8fe1"/>
+  <g transform="translate(400,0) scale(-1,1)">
+    <rect x="39.8" y="159.8" width="40.4" height="40.4" fill="#5e8fe1"/>
+  </g>
+  <rect x="79.8" y="159.8" width="40.4" height="40.4" fill="#bed2f3"/>
+  <g transform="translate(400,0) scale(-1,1)">
+    <rect x="79.8" y="159.8" width="40.4" height="40.4" fill="#bed2f3"/>
+  </g>
+  <g>
+    <rect x="119.8" y="159.8" width="40.4" height="40.4" fill="#bed2f3"/>
+    <path d="M 119.8 159.8 L 160.4 159.8 L 119.8 200.4 Z" fill="#5e8fe1"/>
+  </g>
+  <g transform="translate(400,0) scale(-1,1)">
+    <g>
+      <rect x="119.8" y="159.8" width="40.4" height="40.4" fill="#bed2f3"/>
+      <path d="M 119.8 159.8 L 160.4 159.8 L 119.8 200.4 Z" fill="#5e8fe1"/>
+    </g>
+  </g>
+  <rect x="159.8" y="159.8" width="40.4" height="40.4" fill="#bed2f3"/>
+  <g transform="translate(400,0) scale(-1,1)">
+    <rect x="159.8" y="159.8" width="40.4" height="40.4" fill="#bed2f3"/>
+  </g>
+  <g>
+    <rect x="-0.2" y="199.8" width="40.4" height="40.4" fill="#bed2f3"/>
+    <path d="M -0.2 199.8 L 40.4 199.8 L -0.2 240.4 Z" fill="#5e8fe1"/>
+  </g>
+  <g transform="translate(400,0) scale(-1,1)">
+    <g>
+      <rect x="-0.2" y="199.8" width="40.4" height="40.4" fill="#bed2f3"/>
+      <path d="M -0.2 199.8 L 40.4 199.8 L -0.2 240.4 Z" fill="#5e8fe1"/>
+    </g>
+  </g>
+  <g>
+    <rect x="39.8" y="199.8" width="40.4" height="40.4" fill="#bed2f3"/>
+    <path d="M 80.4 199.8 L 80.4 240.4 L 39.8 199.8 Z" fill="#5e8fe1"/>
+  </g>
+  <g transform="translate(400,0) scale(-1,1)">
+    <g>
+      <rect x="39.8" y="199.8" width="40.4" height="40.4" fill="#bed2f3"/>
+      <path d="M 80.4 199.8 L 80.4 240.4 L 39.8 199.8 Z" fill="#5e8fe1"/>
+    </g>
+  </g>
+  <rect x="79.8" y="199.8" width="40.4" height="40.4" fill="#bed2f3"/>
+  <g transform="translate(400,0) scale(-1,1)">
+    <rect x="79.8" y="199.8" width="40.4" height="40.4" fill="#bed2f3"/>
+  </g>
+  <g>
+    <rect x="119.8" y="199.8" width="40.4" height="40.4" fill="#bed2f3"/>
+    <path d="M 119.8 240.4 L 160.4 240.4 L 119.8 199.8 Z" fill="#5e8fe1"/>
+  </g>
+  <g transform="translate(400,0) scale(-1,1)">
+    <g>
+      <rect x="119.8" y="199.8" width="40.4" height="40.4" fill="#bed2f3"/>
+      <path d="M 119.8 240.4 L 160.4 240.4 L 119.8 199.8 Z" fill="#5e8fe1"/>
+    </g>
+  </g>
+  <g>
+    <rect x="159.8" y="199.8" width="40.4" height="40.4" fill="#bed2f3"/>
+    <path d="M 200.4 199.8 L 200.4 240.4 L 159.8 240.4 Z" fill="#5e8fe1"/>
+  </g>
+  <g transform="translate(400,0) scale(-1,1)">
+    <g>
+      <rect x="159.8" y="199.8" width="40.4" height="40.4" fill="#bed2f3"/>
+      <path d="M 200.4 199.8 L 200.4 240.4 L 159.8 240.4 Z" fill="#5e8fe1"/>
+    </g>
+  </g>
+  <rect x="-0.2" y="239.8" width="40.4" height="40.4" fill="#bed2f3"/>
+  <g transform="translate(400,0) scale(-1,1)">
+    <rect x="-0.2" y="239.8" width="40.4" height="40.4" fill="#bed2f3"/>
+  </g>
+  <rect x="39.8" y="239.8" width="40.4" height="40.4" fill="#bed2f3"/>
+  <g transform="translate(400,0) scale(-1,1)">
+    <rect x="39.8" y="239.8" width="40.4" height="40.4" fill="#bed2f3"/>
+  </g>
+  <g>
+    <rect x="79.8" y="239.8" width="40.4" height="40.4" fill="#bed2f3"/>
+    <path d="M 79.8 239.8 L 120.4 239.8 L 79.8 280.4 Z" fill="#5e8fe1"/>
+  </g>
+  <g transform="translate(400,0) scale(-1,1)">
+    <g>
+      <rect x="79.8" y="239.8" width="40.4" height="40.4" fill="#bed2f3"/>
+      <path d="M 79.8 239.8 L 120.4 239.8 L 79.8 280.4 Z" fill="#5e8fe1"/>
+    </g>
+  </g>
+  <g>
+    <rect x="119.8" y="239.8" width="40.4" height="40.4" fill="#bed2f3"/>
+    <path d="M 119.8 239.8 L 160.4 239.8 L 119.8 280.4 Z" fill="#5e8fe1"/>
+  </g>
+  <g transform="translate(400,0) scale(-1,1)">
+    <g>
+      <rect x="119.8" y="239.8" width="40.4" height="40.4" fill="#bed2f3"/>
+      <path d="M 119.8 239.8 L 160.4 239.8 L 119.8 280.4 Z" fill="#5e8fe1"/>
+    </g>
+  </g>
+  <rect x="159.8" y="239.8" width="40.4" height="40.4" fill="#5e8fe1"/>
+  <g transform="translate(400,0) scale(-1,1)">
+    <rect x="159.8" y="239.8" width="40.4" height="40.4" fill="#5e8fe1"/>
+  </g>
+  <g>
+    <rect x="-0.2" y="279.8" width="40.4" height="40.4" fill="#bed2f3"/>
+    <path d="M 40.4 279.8 L 40.4 320.4 L -0.2 279.8 Z" fill="#5e8fe1"/>
+  </g>
+  <g transform="translate(400,0) scale(-1,1)">
+    <g>
+      <rect x="-0.2" y="279.8" width="40.4" height="40.4" fill="#bed2f3"/>
+      <path d="M 40.4 279.8 L 40.4 320.4 L -0.2 279.8 Z" fill="#5e8fe1"/>
+    </g>
+  </g>
+  <g>
+    <rect x="39.8" y="279.8" width="40.4" height="40.4" fill="#bed2f3"/>
+    <path d="M 80.4 279.8 L 80.4 320.4 L 39.8 320.4 Z" fill="#5e8fe1"/>
+  </g>
+  <g transform="translate(400,0) scale(-1,1)">
+    <g>
+      <rect x="39.8" y="279.8" width="40.4" height="40.4" fill="#bed2f3"/>
+      <path d="M 80.4 279.8 L 80.4 320.4 L 39.8 320.4 Z" fill="#5e8fe1"/>
+    </g>
+  </g>
+  <rect x="79.8" y="279.8" width="40.4" height="40.4" fill="#5e8fe1"/>
+  <g transform="translate(400,0) scale(-1,1)">
+    <rect x="79.8" y="279.8" width="40.4" height="40.4" fill="#5e8fe1"/>
+  </g>
+  <g>
+    <rect x="119.8" y="279.8" width="40.4" height="40.4" fill="#bed2f3"/>
+    <path d="M 119.8 279.8 L 160.4 279.8 L 119.8 320.4 Z" fill="#5e8fe1"/>
+  </g>
+  <g transform="translate(400,0) scale(-1,1)">
+    <g>
+      <rect x="119.8" y="279.8" width="40.4" height="40.4" fill="#bed2f3"/>
+      <path d="M 119.8 279.8 L 160.4 279.8 L 119.8 320.4 Z" fill="#5e8fe1"/>
+    </g>
+  </g>
+  <g>
+    <rect x="159.8" y="279.8" width="40.4" height="40.4" fill="#bed2f3"/>
+    <path d="M 200.4 279.8 L 200.4 320.4 L 159.8 279.8 Z" fill="#5e8fe1"/>
+  </g>
+  <g transform="translate(400,0) scale(-1,1)">
+    <g>
+      <rect x="159.8" y="279.8" width="40.4" height="40.4" fill="#bed2f3"/>
+      <path d="M 200.4 279.8 L 200.4 320.4 L 159.8 279.8 Z" fill="#5e8fe1"/>
+    </g>
+  </g>
+  <g>
+    <rect x="-0.2" y="319.8" width="40.4" height="40.4" fill="#bed2f3"/>
+    <path d="M -0.2 319.8 L 40.4 319.8 L -0.2 360.4 Z" fill="#5e8fe1"/>
+  </g>
+  <g transform="translate(400,0) scale(-1,1)">
+    <g>
+      <rect x="-0.2" y="319.8" width="40.4" height="40.4" fill="#bed2f3"/>
+      <path d="M -0.2 319.8 L 40.4 319.8 L -0.2 360.4 Z" fill="#5e8fe1"/>
+    </g>
+  </g>
+  <rect x="39.8" y="319.8" width="40.4" height="40.4" fill="#5e8fe1"/>
+  <g transform="translate(400,0) scale(-1,1)">
+    <rect x="39.8" y="319.8" width="40.4" height="40.4" fill="#5e8fe1"/>
+  </g>
+  <g>
+    <rect x="79.8" y="319.8" width="40.4" height="40.4" fill="#bed2f3"/>
+    <path d="M 120.4 319.8 L 120.4 360.4 L 79.8 360.4 Z" fill="#5e8fe1"/>
+  </g>
+  <g transform="translate(400,0) scale(-1,1)">
+    <g>
+      <rect x="79.8" y="319.8" width="40.4" height="40.4" fill="#bed2f3"/>
+      <path d="M 120.4 319.8 L 120.4 360.4 L 79.8 360.4 Z" fill="#5e8fe1"/>
+    </g>
+  </g>
+  <g>
+    <rect x="119.8" y="319.8" width="40.4" height="40.4" fill="#bed2f3"/>
+    <path d="M 160.4 319.8 L 160.4 360.4 L 119.8 319.8 Z" fill="#5e8fe1"/>
+  </g>
+  <g transform="translate(400,0) scale(-1,1)">
+    <g>
+      <rect x="119.8" y="319.8" width="40.4" height="40.4" fill="#bed2f3"/>
+      <path d="M 160.4 319.8 L 160.4 360.4 L 119.8 319.8 Z" fill="#5e8fe1"/>
+    </g>
+  </g>
+  <rect x="159.8" y="319.8" width="40.4" height="40.4" fill="#bed2f3"/>
+  <g transform="translate(400,0) scale(-1,1)">
+    <rect x="159.8" y="319.8" width="40.4" height="40.4" fill="#bed2f3"/>
+  </g>
+  <rect x="-0.2" y="359.8" width="40.4" height="40.4" fill="#5e8fe1"/>
+  <g transform="translate(400,0) scale(-1,1)">
+    <rect x="-0.2" y="359.8" width="40.4" height="40.4" fill="#5e8fe1"/>
+  </g>
+  <rect x="39.8" y="359.8" width="40.4" height="40.4" fill="#5e8fe1"/>
+  <g transform="translate(400,0) scale(-1,1)">
+    <rect x="39.8" y="359.8" width="40.4" height="40.4" fill="#5e8fe1"/>
+  </g>
+  <g>
+    <rect x="79.8" y="359.8" width="40.4" height="40.4" fill="#bed2f3"/>
+    <path d="M 79.8 400.4 L 120.4 400.4 L 79.8 359.8 Z" fill="#5e8fe1"/>
+  </g>
+  <g transform="translate(400,0) scale(-1,1)">
+    <g>
+      <rect x="79.8" y="359.8" width="40.4" height="40.4" fill="#bed2f3"/>
+      <path d="M 79.8 400.4 L 120.4 400.4 L 79.8 359.8 Z" fill="#5e8fe1"/>
+    </g>
+  </g>
+  <g>
+    <rect x="119.8" y="359.8" width="40.4" height="40.4" fill="#bed2f3"/>
+    <path d="M 119.8 400.4 L 160.4 400.4 L 119.8 359.8 Z" fill="#5e8fe1"/>
+  </g>
+  <g transform="translate(400,0) scale(-1,1)">
+    <g>
+      <rect x="119.8" y="359.8" width="40.4" height="40.4" fill="#bed2f3"/>
+      <path d="M 119.8 400.4 L 160.4 400.4 L 119.8 359.8 Z" fill="#5e8fe1"/>
+    </g>
+  </g>
+  <g>
+    <rect x="159.8" y="359.8" width="40.4" height="40.4" fill="#bed2f3"/>
+    <path d="M 159.8 400.4 L 200.4 400.4 L 159.8 359.8 Z" fill="#5e8fe1"/>
+  </g>
+  <g transform="translate(400,0) scale(-1,1)">
+    <g>
+      <rect x="159.8" y="359.8" width="40.4" height="40.4" fill="#bed2f3"/>
+      <path d="M 159.8 400.4 L 200.4 400.4 L 159.8 359.8 Z" fill="#5e8fe1"/>
+    </g>
+  </g>
+</svg>

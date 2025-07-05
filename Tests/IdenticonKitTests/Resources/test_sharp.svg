@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" shape-rendering="crispEdges" width="200" height="200" viewBox="0 0 200 200">
+  <rect width="100%" height="100%" fill="#fff"/>
+  <g>
+    <rect x="-0.2" y="-0.2" width="40.4" height="40.4" fill="#ad9fad"/>
+    <path d="M -0.2 -0.2 L 40.4 -0.2 L -0.2 40.4 Z" fill="#331033"/>
+  </g>
+  <g transform="translate(200,0) scale(-1,1)">
+    <g>
+      <rect x="-0.2" y="-0.2" width="40.4" height="40.4" fill="#ad9fad"/>
+      <path d="M -0.2 -0.2 L 40.4 -0.2 L -0.2 40.4 Z" fill="#331033"/>
+    </g>
+  </g>
+  <g>
+    <rect x="39.8" y="-0.2" width="40.4" height="40.4" fill="#ad9fad"/>
+    <path d="M 80.4 -0.2 L 80.4 40.4 L 39.8 40.4 Z" fill="#331033"/>
+  </g>
+  <g transform="translate(200,0) scale(-1,1)">
+    <g>
+      <rect x="39.8" y="-0.2" width="40.4" height="40.4" fill="#ad9fad"/>
+      <path d="M 80.4 -0.2 L 80.4 40.4 L 39.8 40.4 Z" fill="#331033"/>
+    </g>
+  </g>
+  <rect x="79.8" y="-0.2" width="40.4" height="40.4" fill="#ad9fad"/>
+  <g>
+    <rect x="-0.2" y="39.8" width="40.4" height="40.4" fill="#ad9fad"/>
+    <path d="M -0.2 39.8 L 40.4 39.8 L -0.2 80.4 Z" fill="#331033"/>
+  </g>
+  <g transform="translate(200,0) scale(-1,1)">
+    <g>
+      <rect x="-0.2" y="39.8" width="40.4" height="40.4" fill="#ad9fad"/>
+      <path d="M -0.2 39.8 L 40.4 39.8 L -0.2 80.4 Z" fill="#331033"/>
+    </g>
+  </g>
+  <rect x="39.8" y="39.8" width="40.4" height="40.4" fill="#331033"/>
+  <g transform="translate(200,0) scale(-1,1)">
+    <rect x="39.8" y="39.8" width="40.4" height="40.4" fill="#331033"/>
+  </g>
+  <rect x="79.8" y="39.8" width="40.4" height="40.4" fill="#331033"/>
+  <rect x="-0.2" y="79.8" width="40.4" height="40.4" fill="#331033"/>
+  <g transform="translate(200,0) scale(-1,1)">
+    <rect x="-0.2" y="79.8" width="40.4" height="40.4" fill="#331033"/>
+  </g>
+  <g>
+    <rect x="39.8" y="79.8" width="40.4" height="40.4" fill="#ad9fad"/>
+    <path d="M 39.8 120.4 L 80.4 120.4 L 39.8 79.8 Z" fill="#331033"/>
+  </g>
+  <g transform="translate(200,0) scale(-1,1)">
+    <g>
+      <rect x="39.8" y="79.8" width="40.4" height="40.4" fill="#ad9fad"/>
+      <path d="M 39.8 120.4 L 80.4 120.4 L 39.8 79.8 Z" fill="#331033"/>
+    </g>
+  </g>
+  <rect x="79.8" y="79.8" width="40.4" height="40.4" fill="#ad9fad"/>
+  <g>
+    <rect x="-0.2" y="119.8" width="40.4" height="40.4" fill="#ad9fad"/>
+    <path d="M -0.2 119.8 L 40.4 119.8 L -0.2 160.4 Z" fill="#331033"/>
+  </g>
+  <g transform="translate(200,0) scale(-1,1)">
+    <g>
+      <rect x="-0.2" y="119.8" width="40.4" height="40.4" fill="#ad9fad"/>
+      <path d="M -0.2 119.8 L 40.4 119.8 L -0.2 160.4 Z" fill="#331033"/>
+    </g>
+  </g>
+  <g>
+    <rect x="39.8" y="119.8" width="40.4" height="40.4" fill="#ad9fad"/>
+    <path d="M 80.4 119.8 L 80.4 160.4 L 39.8 119.8 Z" fill="#331033"/>
+  </g>
+  <g transform="translate(200,0) scale(-1,1)">
+    <g>
+      <rect x="39.8" y="119.8" width="40.4" height="40.4" fill="#ad9fad"/>
+      <path d="M 80.4 119.8 L 80.4 160.4 L 39.8 119.8 Z" fill="#331033"/>
+    </g>
+  </g>
+  <rect x="79.8" y="119.8" width="40.4" height="40.4" fill="#ad9fad"/>
+  <g>
+    <rect x="-0.2" y="159.8" width="40.4" height="40.4" fill="#ad9fad"/>
+    <path d="M 40.4 159.8 L 40.4 200.4 L -0.2 159.8 Z" fill="#331033"/>
+  </g>
+  <g transform="translate(200,0) scale(-1,1)">
+    <g>
+      <rect x="-0.2" y="159.8" width="40.4" height="40.4" fill="#ad9fad"/>
+      <path d="M 40.4 159.8 L 40.4 200.4 L -0.2 159.8 Z" fill="#331033"/>
+    </g>
+  </g>
+  <g>
+    <rect x="39.8" y="159.8" width="40.4" height="40.4" fill="#ad9fad"/>
+    <path d="M 80.4 159.8 L 80.4 200.4 L 39.8 200.4 Z" fill="#331033"/>
+  </g>
+  <g transform="translate(200,0) scale(-1,1)">
+    <g>
+      <rect x="39.8" y="159.8" width="40.4" height="40.4" fill="#ad9fad"/>
+      <path d="M 80.4 159.8 L 80.4 200.4 L 39.8 200.4 Z" fill="#331033"/>
+    </g>
+  </g>
+  <rect x="79.8" y="159.8" width="40.4" height="40.4" fill="#ad9fad"/>
+</svg>

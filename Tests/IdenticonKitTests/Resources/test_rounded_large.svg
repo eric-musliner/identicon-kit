@@ -1,353 +1,353 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400">
+<svg xmlns="http://www.w3.org/2000/svg" shape-rendering="crispEdges" width="400" height="400" viewBox="0 0 400 400">
   <rect width="100%" height="100%" fill="#fff"/>
   <g>
-    <rect x="0" y="0" width="40" height="40" fill="#d5b1fe"/>
-    <path d="M 40 0 A 40 40 0 0 1 0 40 L 40 40 Z" fill="#973dfe"/>
+    <rect x="0" y="0" width="40.4" height="40.4" fill="#d5b1fe"/>
+    <path d="M 40.4 0 A 40.4 40.4 0 0 1 0 40.4 L 40.4 40.4 Z" fill="#973dfe"/>
   </g>
   <g transform="translate(400,0) scale(-1,1)">
     <g>
-      <rect x="0" y="0" width="40" height="40" fill="#d5b1fe"/>
-      <path d="M 40 0 A 40 40 0 0 1 0 40 L 40 40 Z" fill="#973dfe"/>
+      <rect x="0" y="0" width="40.4" height="40.4" fill="#d5b1fe"/>
+      <path d="M 40.4 0 A 40.4 40.4 0 0 1 0 40.4 L 40.4 40.4 Z" fill="#973dfe"/>
     </g>
   </g>
-  <rect x="40" y="0" width="40" height="40" fill="#d5b1fe"/>
+  <rect x="39.8" y="-0.2" width="40.4" height="40.4" fill="#d5b1fe"/>
   <g transform="translate(400,0) scale(-1,1)">
-    <rect x="40" y="0" width="40" height="40" fill="#d5b1fe"/>
+    <rect x="39.8" y="-0.2" width="40.4" height="40.4" fill="#d5b1fe"/>
   </g>
-  <rect x="80" y="0" width="40" height="40" fill="#973dfe"/>
+  <rect x="80" y="0" width="40.4" height="40.4" fill="#973dfe"/>
   <g transform="translate(400,0) scale(-1,1)">
-    <rect x="80" y="0" width="40" height="40" fill="#973dfe"/>
+    <rect x="80" y="0" width="40.4" height="40.4" fill="#973dfe"/>
   </g>
   <g>
-    <rect x="120" y="0" width="40" height="40" fill="#d5b1fe"/>
-    <path d="M 120 0 A 40 40 0 0 1 160 40 L 120 40 Z" fill="#973dfe"/>
+    <rect x="120" y="0" width="40.4" height="40.4" fill="#d5b1fe"/>
+    <path d="M 120 0 A 40 40.4 0 0 1 160 40.4 L 120 40.4 Z" fill="#973dfe"/>
   </g>
   <g transform="translate(400,0) scale(-1,1)">
     <g>
-      <rect x="120" y="0" width="40" height="40" fill="#d5b1fe"/>
-      <path d="M 120 0 A 40 40 0 0 1 160 40 L 120 40 Z" fill="#973dfe"/>
+      <rect x="120" y="0" width="40.4" height="40.4" fill="#d5b1fe"/>
+      <path d="M 120 0 A 40 40.4 0 0 1 160 40.4 L 120 40.4 Z" fill="#973dfe"/>
     </g>
   </g>
-  <rect x="160" y="0" width="40" height="40" fill="#973dfe"/>
+  <rect x="160" y="0" width="40.4" height="40.4" fill="#973dfe"/>
   <g transform="translate(400,0) scale(-1,1)">
-    <rect x="160" y="0" width="40" height="40" fill="#973dfe"/>
+    <rect x="160" y="0" width="40.4" height="40.4" fill="#973dfe"/>
   </g>
   <g>
-    <rect x="0" y="40" width="40" height="40" fill="#d5b1fe"/>
-    <path d="M 40 40 A 40 40 0 0 1 0 80 L 40 80 Z" fill="#973dfe"/>
+    <rect x="0" y="40" width="40.4" height="40.4" fill="#d5b1fe"/>
+    <path d="M 40.4 40 A 40.4 40.4 0 0 1 0 80.4 L 40.4 80.4 Z" fill="#973dfe"/>
   </g>
   <g transform="translate(400,0) scale(-1,1)">
     <g>
-      <rect x="0" y="40" width="40" height="40" fill="#d5b1fe"/>
-      <path d="M 40 40 A 40 40 0 0 1 0 80 L 40 80 Z" fill="#973dfe"/>
-    </g>
-  </g>
-  <g>
-    <rect x="40" y="40" width="40" height="40" fill="#d5b1fe"/>
-    <path d="M 40 80 A 40 40 0 0 1 80 40 L 40 40 Z" fill="#973dfe"/>
-  </g>
-  <g transform="translate(400,0) scale(-1,1)">
-    <g>
-      <rect x="40" y="40" width="40" height="40" fill="#d5b1fe"/>
-      <path d="M 40 80 A 40 40 0 0 1 80 40 L 40 40 Z" fill="#973dfe"/>
-    </g>
-  </g>
-  <rect x="80" y="40" width="40" height="40" fill="#973dfe"/>
-  <g transform="translate(400,0) scale(-1,1)">
-    <rect x="80" y="40" width="40" height="40" fill="#973dfe"/>
-  </g>
-  <g>
-    <rect x="120" y="40" width="40" height="40" fill="#d5b1fe"/>
-    <path d="M 160 80 A 40 40 0 0 1 120 40 L 160 40 Z" fill="#973dfe"/>
-  </g>
-  <g transform="translate(400,0) scale(-1,1)">
-    <g>
-      <rect x="120" y="40" width="40" height="40" fill="#d5b1fe"/>
-      <path d="M 160 80 A 40 40 0 0 1 120 40 L 160 40 Z" fill="#973dfe"/>
+      <rect x="0" y="40" width="40.4" height="40.4" fill="#d5b1fe"/>
+      <path d="M 40.4 40 A 40.4 40.4 0 0 1 0 80.4 L 40.4 80.4 Z" fill="#973dfe"/>
     </g>
   </g>
   <g>
-    <rect x="160" y="40" width="40" height="40" fill="#d5b1fe"/>
-    <path d="M 160 80 A 40 40 0 0 1 200 40 L 160 40 Z" fill="#973dfe"/>
+    <rect x="40" y="40" width="40.4" height="40.4" fill="#d5b1fe"/>
+    <path d="M 40 80.4 A 40.4 40.4 0 0 1 80.4 40 L 40 40 Z" fill="#973dfe"/>
   </g>
   <g transform="translate(400,0) scale(-1,1)">
     <g>
-      <rect x="160" y="40" width="40" height="40" fill="#d5b1fe"/>
-      <path d="M 160 80 A 40 40 0 0 1 200 40 L 160 40 Z" fill="#973dfe"/>
+      <rect x="40" y="40" width="40.4" height="40.4" fill="#d5b1fe"/>
+      <path d="M 40 80.4 A 40.4 40.4 0 0 1 80.4 40 L 40 40 Z" fill="#973dfe"/>
+    </g>
+  </g>
+  <rect x="80" y="40" width="40.4" height="40.4" fill="#973dfe"/>
+  <g transform="translate(400,0) scale(-1,1)">
+    <rect x="80" y="40" width="40.4" height="40.4" fill="#973dfe"/>
+  </g>
+  <g>
+    <rect x="120" y="40" width="40.4" height="40.4" fill="#d5b1fe"/>
+    <path d="M 160.4 80.4 A 40 40 0 0 1 120 40 L 160 40 Z" fill="#973dfe"/>
+  </g>
+  <g transform="translate(400,0) scale(-1,1)">
+    <g>
+      <rect x="120" y="40" width="40.4" height="40.4" fill="#d5b1fe"/>
+      <path d="M 160.4 80.4 A 40 40 0 0 1 120 40 L 160 40 Z" fill="#973dfe"/>
     </g>
   </g>
   <g>
-    <rect x="0" y="80" width="40" height="40" fill="#d5b1fe"/>
-    <path d="M 40 80 A 40 40 0 0 1 0 120 L 40 120 Z" fill="#973dfe"/>
+    <rect x="160" y="40" width="40.4" height="40.4" fill="#d5b1fe"/>
+    <path d="M 160 80.4 A 40.4 40.4 0 0 1 200.4 40 L 160 40 Z" fill="#973dfe"/>
   </g>
   <g transform="translate(400,0) scale(-1,1)">
     <g>
-      <rect x="0" y="80" width="40" height="40" fill="#d5b1fe"/>
-      <path d="M 40 80 A 40 40 0 0 1 0 120 L 40 120 Z" fill="#973dfe"/>
+      <rect x="160" y="40" width="40.4" height="40.4" fill="#d5b1fe"/>
+      <path d="M 160 80.4 A 40.4 40.4 0 0 1 200.4 40 L 160 40 Z" fill="#973dfe"/>
     </g>
   </g>
   <g>
-    <rect x="40" y="80" width="40" height="40" fill="#d5b1fe"/>
-    <path d="M 40 80 A 40 40 0 0 1 80 120 L 40 120 Z" fill="#973dfe"/>
+    <rect x="0" y="80" width="40.4" height="40.4" fill="#d5b1fe"/>
+    <path d="M 40.4 80 A 40.4 40.4 0 0 1 0 120.4 L 40.4 120.4 Z" fill="#973dfe"/>
   </g>
   <g transform="translate(400,0) scale(-1,1)">
     <g>
-      <rect x="40" y="80" width="40" height="40" fill="#d5b1fe"/>
-      <path d="M 40 80 A 40 40 0 0 1 80 120 L 40 120 Z" fill="#973dfe"/>
+      <rect x="0" y="80" width="40.4" height="40.4" fill="#d5b1fe"/>
+      <path d="M 40.4 80 A 40.4 40.4 0 0 1 0 120.4 L 40.4 120.4 Z" fill="#973dfe"/>
     </g>
   </g>
   <g>
-    <rect x="80" y="80" width="40" height="40" fill="#d5b1fe"/>
-    <path d="M 80 120 A 40 40 0 0 1 120 80 L 80 80 Z" fill="#973dfe"/>
+    <rect x="40" y="80" width="40.4" height="40.4" fill="#d5b1fe"/>
+    <path d="M 40 80 A 40 40.4 0 0 1 80 120.4 L 40 120.4 Z" fill="#973dfe"/>
   </g>
   <g transform="translate(400,0) scale(-1,1)">
     <g>
-      <rect x="80" y="80" width="40" height="40" fill="#d5b1fe"/>
-      <path d="M 80 120 A 40 40 0 0 1 120 80 L 80 80 Z" fill="#973dfe"/>
-    </g>
-  </g>
-  <rect x="120" y="80" width="40" height="40" fill="#973dfe"/>
-  <g transform="translate(400,0) scale(-1,1)">
-    <rect x="120" y="80" width="40" height="40" fill="#973dfe"/>
-  </g>
-  <g>
-    <rect x="160" y="80" width="40" height="40" fill="#d5b1fe"/>
-    <path d="M 160 120 A 40 40 0 0 1 200 80 L 160 80 Z" fill="#973dfe"/>
-  </g>
-  <g transform="translate(400,0) scale(-1,1)">
-    <g>
-      <rect x="160" y="80" width="40" height="40" fill="#d5b1fe"/>
-      <path d="M 160 120 A 40 40 0 0 1 200 80 L 160 80 Z" fill="#973dfe"/>
-    </g>
-  </g>
-  <rect x="0" y="120" width="40" height="40" fill="#973dfe"/>
-  <g transform="translate(400,0) scale(-1,1)">
-    <rect x="0" y="120" width="40" height="40" fill="#973dfe"/>
-  </g>
-  <g>
-    <rect x="40" y="120" width="40" height="40" fill="#d5b1fe"/>
-    <path d="M 80 160 A 40 40 0 0 1 40 120 L 80 120 Z" fill="#973dfe"/>
-  </g>
-  <g transform="translate(400,0) scale(-1,1)">
-    <g>
-      <rect x="40" y="120" width="40" height="40" fill="#d5b1fe"/>
-      <path d="M 80 160 A 40 40 0 0 1 40 120 L 80 120 Z" fill="#973dfe"/>
-    </g>
-  </g>
-  <rect x="80" y="120" width="40" height="40" fill="#d5b1fe"/>
-  <g transform="translate(400,0) scale(-1,1)">
-    <rect x="80" y="120" width="40" height="40" fill="#d5b1fe"/>
-  </g>
-  <rect x="120" y="120" width="40" height="40" fill="#973dfe"/>
-  <g transform="translate(400,0) scale(-1,1)">
-    <rect x="120" y="120" width="40" height="40" fill="#973dfe"/>
-  </g>
-  <rect x="160" y="120" width="40" height="40" fill="#973dfe"/>
-  <g transform="translate(400,0) scale(-1,1)">
-    <rect x="160" y="120" width="40" height="40" fill="#973dfe"/>
-  </g>
-  <g>
-    <rect x="0" y="160" width="40" height="40" fill="#d5b1fe"/>
-    <path d="M 40 200 A 40 40 0 0 1 0 160 L 40 160 Z" fill="#973dfe"/>
-  </g>
-  <g transform="translate(400,0) scale(-1,1)">
-    <g>
-      <rect x="0" y="160" width="40" height="40" fill="#d5b1fe"/>
-      <path d="M 40 200 A 40 40 0 0 1 0 160 L 40 160 Z" fill="#973dfe"/>
+      <rect x="40" y="80" width="40.4" height="40.4" fill="#d5b1fe"/>
+      <path d="M 40 80 A 40 40.4 0 0 1 80 120.4 L 40 120.4 Z" fill="#973dfe"/>
     </g>
   </g>
   <g>
-    <rect x="40" y="160" width="40" height="40" fill="#d5b1fe"/>
-    <path d="M 80 160 A 40 40 0 0 1 40 200 L 80 200 Z" fill="#973dfe"/>
+    <rect x="80" y="80" width="40.4" height="40.4" fill="#d5b1fe"/>
+    <path d="M 80 120.4 A 40.4 40.4 0 0 1 120.4 80 L 80 80 Z" fill="#973dfe"/>
   </g>
   <g transform="translate(400,0) scale(-1,1)">
     <g>
-      <rect x="40" y="160" width="40" height="40" fill="#d5b1fe"/>
-      <path d="M 80 160 A 40 40 0 0 1 40 200 L 80 200 Z" fill="#973dfe"/>
+      <rect x="80" y="80" width="40.4" height="40.4" fill="#d5b1fe"/>
+      <path d="M 80 120.4 A 40.4 40.4 0 0 1 120.4 80 L 80 80 Z" fill="#973dfe"/>
     </g>
   </g>
-  <rect x="80" y="160" width="40" height="40" fill="#973dfe"/>
+  <rect x="120" y="80" width="40.4" height="40.4" fill="#973dfe"/>
   <g transform="translate(400,0) scale(-1,1)">
-    <rect x="80" y="160" width="40" height="40" fill="#973dfe"/>
-  </g>
-  <rect x="120" y="160" width="40" height="40" fill="#d5b1fe"/>
-  <g transform="translate(400,0) scale(-1,1)">
-    <rect x="120" y="160" width="40" height="40" fill="#d5b1fe"/>
+    <rect x="120" y="80" width="40.4" height="40.4" fill="#973dfe"/>
   </g>
   <g>
-    <rect x="160" y="160" width="40" height="40" fill="#d5b1fe"/>
-    <path d="M 160 200 A 40 40 0 0 1 200 160 L 160 160 Z" fill="#973dfe"/>
+    <rect x="160" y="80" width="40.4" height="40.4" fill="#d5b1fe"/>
+    <path d="M 160 120.4 A 40.4 40.4 0 0 1 200.4 80 L 160 80 Z" fill="#973dfe"/>
   </g>
   <g transform="translate(400,0) scale(-1,1)">
     <g>
-      <rect x="160" y="160" width="40" height="40" fill="#d5b1fe"/>
-      <path d="M 160 200 A 40 40 0 0 1 200 160 L 160 160 Z" fill="#973dfe"/>
+      <rect x="160" y="80" width="40.4" height="40.4" fill="#d5b1fe"/>
+      <path d="M 160 120.4 A 40.4 40.4 0 0 1 200.4 80 L 160 80 Z" fill="#973dfe"/>
     </g>
   </g>
-  <rect x="0" y="200" width="40" height="40" fill="#973dfe"/>
+  <rect x="0" y="120" width="40.4" height="40.4" fill="#973dfe"/>
   <g transform="translate(400,0) scale(-1,1)">
-    <rect x="0" y="200" width="40" height="40" fill="#973dfe"/>
+    <rect x="0" y="120" width="40.4" height="40.4" fill="#973dfe"/>
   </g>
   <g>
-    <rect x="40" y="200" width="40" height="40" fill="#d5b1fe"/>
-    <path d="M 80 240 A 40 40 0 0 1 40 200 L 80 200 Z" fill="#973dfe"/>
+    <rect x="40" y="120" width="40.4" height="40.4" fill="#d5b1fe"/>
+    <path d="M 80.4 160.4 A 40 40 0 0 1 40 120 L 80 120 Z" fill="#973dfe"/>
   </g>
   <g transform="translate(400,0) scale(-1,1)">
     <g>
-      <rect x="40" y="200" width="40" height="40" fill="#d5b1fe"/>
-      <path d="M 80 240 A 40 40 0 0 1 40 200 L 80 200 Z" fill="#973dfe"/>
+      <rect x="40" y="120" width="40.4" height="40.4" fill="#d5b1fe"/>
+      <path d="M 80.4 160.4 A 40 40 0 0 1 40 120 L 80 120 Z" fill="#973dfe"/>
     </g>
   </g>
-  <rect x="80" y="200" width="40" height="40" fill="#d5b1fe"/>
+  <rect x="79.8" y="119.8" width="40.4" height="40.4" fill="#d5b1fe"/>
   <g transform="translate(400,0) scale(-1,1)">
-    <rect x="80" y="200" width="40" height="40" fill="#d5b1fe"/>
+    <rect x="79.8" y="119.8" width="40.4" height="40.4" fill="#d5b1fe"/>
   </g>
-  <rect x="120" y="200" width="40" height="40" fill="#d5b1fe"/>
+  <rect x="120" y="120" width="40.4" height="40.4" fill="#973dfe"/>
   <g transform="translate(400,0) scale(-1,1)">
-    <rect x="120" y="200" width="40" height="40" fill="#d5b1fe"/>
+    <rect x="120" y="120" width="40.4" height="40.4" fill="#973dfe"/>
   </g>
-  <rect x="160" y="200" width="40" height="40" fill="#973dfe"/>
+  <rect x="160" y="120" width="40.4" height="40.4" fill="#973dfe"/>
   <g transform="translate(400,0) scale(-1,1)">
-    <rect x="160" y="200" width="40" height="40" fill="#973dfe"/>
-  </g>
-  <rect x="0" y="240" width="40" height="40" fill="#973dfe"/>
-  <g transform="translate(400,0) scale(-1,1)">
-    <rect x="0" y="240" width="40" height="40" fill="#973dfe"/>
-  </g>
-  <rect x="40" y="240" width="40" height="40" fill="#d5b1fe"/>
-  <g transform="translate(400,0) scale(-1,1)">
-    <rect x="40" y="240" width="40" height="40" fill="#d5b1fe"/>
-  </g>
-  <rect x="80" y="240" width="40" height="40" fill="#d5b1fe"/>
-  <g transform="translate(400,0) scale(-1,1)">
-    <rect x="80" y="240" width="40" height="40" fill="#d5b1fe"/>
-  </g>
-  <rect x="120" y="240" width="40" height="40" fill="#973dfe"/>
-  <g transform="translate(400,0) scale(-1,1)">
-    <rect x="120" y="240" width="40" height="40" fill="#973dfe"/>
+    <rect x="160" y="120" width="40.4" height="40.4" fill="#973dfe"/>
   </g>
   <g>
-    <rect x="160" y="240" width="40" height="40" fill="#d5b1fe"/>
-    <path d="M 200 240 A 40 40 0 0 1 160 280 L 200 280 Z" fill="#973dfe"/>
+    <rect x="0" y="160" width="40.4" height="40.4" fill="#d5b1fe"/>
+    <path d="M 40.4 200.4 A 40 40 0 0 1 0 160 L 40 160 Z" fill="#973dfe"/>
   </g>
   <g transform="translate(400,0) scale(-1,1)">
     <g>
-      <rect x="160" y="240" width="40" height="40" fill="#d5b1fe"/>
-      <path d="M 200 240 A 40 40 0 0 1 160 280 L 200 280 Z" fill="#973dfe"/>
+      <rect x="0" y="160" width="40.4" height="40.4" fill="#d5b1fe"/>
+      <path d="M 40.4 200.4 A 40 40 0 0 1 0 160 L 40 160 Z" fill="#973dfe"/>
     </g>
   </g>
   <g>
-    <rect x="0" y="280" width="40" height="40" fill="#d5b1fe"/>
-    <path d="M 0 280 A 40 40 0 0 1 40 320 L 0 320 Z" fill="#973dfe"/>
+    <rect x="40" y="160" width="40.4" height="40.4" fill="#d5b1fe"/>
+    <path d="M 80.4 160 A 40.4 40.4 0 0 1 40 200.4 L 80.4 200.4 Z" fill="#973dfe"/>
   </g>
   <g transform="translate(400,0) scale(-1,1)">
     <g>
-      <rect x="0" y="280" width="40" height="40" fill="#d5b1fe"/>
-      <path d="M 0 280 A 40 40 0 0 1 40 320 L 0 320 Z" fill="#973dfe"/>
+      <rect x="40" y="160" width="40.4" height="40.4" fill="#d5b1fe"/>
+      <path d="M 80.4 160 A 40.4 40.4 0 0 1 40 200.4 L 80.4 200.4 Z" fill="#973dfe"/>
+    </g>
+  </g>
+  <rect x="80" y="160" width="40.4" height="40.4" fill="#973dfe"/>
+  <g transform="translate(400,0) scale(-1,1)">
+    <rect x="80" y="160" width="40.4" height="40.4" fill="#973dfe"/>
+  </g>
+  <rect x="119.8" y="159.8" width="40.4" height="40.4" fill="#d5b1fe"/>
+  <g transform="translate(400,0) scale(-1,1)">
+    <rect x="119.8" y="159.8" width="40.4" height="40.4" fill="#d5b1fe"/>
+  </g>
+  <g>
+    <rect x="160" y="160" width="40.4" height="40.4" fill="#d5b1fe"/>
+    <path d="M 160 200.4 A 40.4 40.4 0 0 1 200.4 160 L 160 160 Z" fill="#973dfe"/>
+  </g>
+  <g transform="translate(400,0) scale(-1,1)">
+    <g>
+      <rect x="160" y="160" width="40.4" height="40.4" fill="#d5b1fe"/>
+      <path d="M 160 200.4 A 40.4 40.4 0 0 1 200.4 160 L 160 160 Z" fill="#973dfe"/>
+    </g>
+  </g>
+  <rect x="0" y="200" width="40.4" height="40.4" fill="#973dfe"/>
+  <g transform="translate(400,0) scale(-1,1)">
+    <rect x="0" y="200" width="40.4" height="40.4" fill="#973dfe"/>
+  </g>
+  <g>
+    <rect x="40" y="200" width="40.4" height="40.4" fill="#d5b1fe"/>
+    <path d="M 80.4 240.4 A 40 40 0 0 1 40 200 L 80 200 Z" fill="#973dfe"/>
+  </g>
+  <g transform="translate(400,0) scale(-1,1)">
+    <g>
+      <rect x="40" y="200" width="40.4" height="40.4" fill="#d5b1fe"/>
+      <path d="M 80.4 240.4 A 40 40 0 0 1 40 200 L 80 200 Z" fill="#973dfe"/>
+    </g>
+  </g>
+  <rect x="79.8" y="199.8" width="40.4" height="40.4" fill="#d5b1fe"/>
+  <g transform="translate(400,0) scale(-1,1)">
+    <rect x="79.8" y="199.8" width="40.4" height="40.4" fill="#d5b1fe"/>
+  </g>
+  <rect x="119.8" y="199.8" width="40.4" height="40.4" fill="#d5b1fe"/>
+  <g transform="translate(400,0) scale(-1,1)">
+    <rect x="119.8" y="199.8" width="40.4" height="40.4" fill="#d5b1fe"/>
+  </g>
+  <rect x="160" y="200" width="40.4" height="40.4" fill="#973dfe"/>
+  <g transform="translate(400,0) scale(-1,1)">
+    <rect x="160" y="200" width="40.4" height="40.4" fill="#973dfe"/>
+  </g>
+  <rect x="0" y="240" width="40.4" height="40.4" fill="#973dfe"/>
+  <g transform="translate(400,0) scale(-1,1)">
+    <rect x="0" y="240" width="40.4" height="40.4" fill="#973dfe"/>
+  </g>
+  <rect x="39.8" y="239.8" width="40.4" height="40.4" fill="#d5b1fe"/>
+  <g transform="translate(400,0) scale(-1,1)">
+    <rect x="39.8" y="239.8" width="40.4" height="40.4" fill="#d5b1fe"/>
+  </g>
+  <rect x="79.8" y="239.8" width="40.4" height="40.4" fill="#d5b1fe"/>
+  <g transform="translate(400,0) scale(-1,1)">
+    <rect x="79.8" y="239.8" width="40.4" height="40.4" fill="#d5b1fe"/>
+  </g>
+  <rect x="120" y="240" width="40.4" height="40.4" fill="#973dfe"/>
+  <g transform="translate(400,0) scale(-1,1)">
+    <rect x="120" y="240" width="40.4" height="40.4" fill="#973dfe"/>
+  </g>
+  <g>
+    <rect x="160" y="240" width="40.4" height="40.4" fill="#d5b1fe"/>
+    <path d="M 200.4 240 A 40.4 40.4 0 0 1 160 280.4 L 200.4 280.4 Z" fill="#973dfe"/>
+  </g>
+  <g transform="translate(400,0) scale(-1,1)">
+    <g>
+      <rect x="160" y="240" width="40.4" height="40.4" fill="#d5b1fe"/>
+      <path d="M 200.4 240 A 40.4 40.4 0 0 1 160 280.4 L 200.4 280.4 Z" fill="#973dfe"/>
     </g>
   </g>
   <g>
-    <rect x="40" y="280" width="40" height="40" fill="#d5b1fe"/>
-    <path d="M 80 280 A 40 40 0 0 1 40 320 L 80 320 Z" fill="#973dfe"/>
+    <rect x="0" y="280" width="40.4" height="40.4" fill="#d5b1fe"/>
+    <path d="M 0 280 A 40 40.4 0 0 1 40 320.4 L 0 320.4 Z" fill="#973dfe"/>
   </g>
   <g transform="translate(400,0) scale(-1,1)">
     <g>
-      <rect x="40" y="280" width="40" height="40" fill="#d5b1fe"/>
-      <path d="M 80 280 A 40 40 0 0 1 40 320 L 80 320 Z" fill="#973dfe"/>
+      <rect x="0" y="280" width="40.4" height="40.4" fill="#d5b1fe"/>
+      <path d="M 0 280 A 40 40.4 0 0 1 40 320.4 L 0 320.4 Z" fill="#973dfe"/>
     </g>
   </g>
   <g>
-    <rect x="80" y="280" width="40" height="40" fill="#d5b1fe"/>
-    <path d="M 120 280 A 40 40 0 0 1 80 320 L 120 320 Z" fill="#973dfe"/>
+    <rect x="40" y="280" width="40.4" height="40.4" fill="#d5b1fe"/>
+    <path d="M 80.4 280 A 40.4 40.4 0 0 1 40 320.4 L 80.4 320.4 Z" fill="#973dfe"/>
   </g>
   <g transform="translate(400,0) scale(-1,1)">
     <g>
-      <rect x="80" y="280" width="40" height="40" fill="#d5b1fe"/>
-      <path d="M 120 280 A 40 40 0 0 1 80 320 L 120 320 Z" fill="#973dfe"/>
-    </g>
-  </g>
-  <rect x="120" y="280" width="40" height="40" fill="#973dfe"/>
-  <g transform="translate(400,0) scale(-1,1)">
-    <rect x="120" y="280" width="40" height="40" fill="#973dfe"/>
-  </g>
-  <rect x="160" y="280" width="40" height="40" fill="#973dfe"/>
-  <g transform="translate(400,0) scale(-1,1)">
-    <rect x="160" y="280" width="40" height="40" fill="#973dfe"/>
-  </g>
-  <g>
-    <rect x="0" y="320" width="40" height="40" fill="#d5b1fe"/>
-    <path d="M 0 360 A 40 40 0 0 1 40 320 L 0 320 Z" fill="#973dfe"/>
-  </g>
-  <g transform="translate(400,0) scale(-1,1)">
-    <g>
-      <rect x="0" y="320" width="40" height="40" fill="#d5b1fe"/>
-      <path d="M 0 360 A 40 40 0 0 1 40 320 L 0 320 Z" fill="#973dfe"/>
+      <rect x="40" y="280" width="40.4" height="40.4" fill="#d5b1fe"/>
+      <path d="M 80.4 280 A 40.4 40.4 0 0 1 40 320.4 L 80.4 320.4 Z" fill="#973dfe"/>
     </g>
   </g>
   <g>
-    <rect x="40" y="320" width="40" height="40" fill="#d5b1fe"/>
-    <path d="M 40 320 A 40 40 0 0 1 80 360 L 40 360 Z" fill="#973dfe"/>
+    <rect x="80" y="280" width="40.4" height="40.4" fill="#d5b1fe"/>
+    <path d="M 120.4 280 A 40.4 40.4 0 0 1 80 320.4 L 120.4 320.4 Z" fill="#973dfe"/>
   </g>
   <g transform="translate(400,0) scale(-1,1)">
     <g>
-      <rect x="40" y="320" width="40" height="40" fill="#d5b1fe"/>
-      <path d="M 40 320 A 40 40 0 0 1 80 360 L 40 360 Z" fill="#973dfe"/>
+      <rect x="80" y="280" width="40.4" height="40.4" fill="#d5b1fe"/>
+      <path d="M 120.4 280 A 40.4 40.4 0 0 1 80 320.4 L 120.4 320.4 Z" fill="#973dfe"/>
+    </g>
+  </g>
+  <rect x="120" y="280" width="40.4" height="40.4" fill="#973dfe"/>
+  <g transform="translate(400,0) scale(-1,1)">
+    <rect x="120" y="280" width="40.4" height="40.4" fill="#973dfe"/>
+  </g>
+  <rect x="160" y="280" width="40.4" height="40.4" fill="#973dfe"/>
+  <g transform="translate(400,0) scale(-1,1)">
+    <rect x="160" y="280" width="40.4" height="40.4" fill="#973dfe"/>
+  </g>
+  <g>
+    <rect x="0" y="320" width="40.4" height="40.4" fill="#d5b1fe"/>
+    <path d="M 0 360.4 A 40.4 40.4 0 0 1 40.4 320 L 0 320 Z" fill="#973dfe"/>
+  </g>
+  <g transform="translate(400,0) scale(-1,1)">
+    <g>
+      <rect x="0" y="320" width="40.4" height="40.4" fill="#d5b1fe"/>
+      <path d="M 0 360.4 A 40.4 40.4 0 0 1 40.4 320 L 0 320 Z" fill="#973dfe"/>
     </g>
   </g>
   <g>
-    <rect x="80" y="320" width="40" height="40" fill="#d5b1fe"/>
-    <path d="M 120 320 A 40 40 0 0 1 80 360 L 120 360 Z" fill="#973dfe"/>
+    <rect x="40" y="320" width="40.4" height="40.4" fill="#d5b1fe"/>
+    <path d="M 40 320 A 40 40.4 0 0 1 80 360.4 L 40 360.4 Z" fill="#973dfe"/>
   </g>
   <g transform="translate(400,0) scale(-1,1)">
     <g>
-      <rect x="80" y="320" width="40" height="40" fill="#d5b1fe"/>
-      <path d="M 120 320 A 40 40 0 0 1 80 360 L 120 360 Z" fill="#973dfe"/>
-    </g>
-  </g>
-  <rect x="120" y="320" width="40" height="40" fill="#d5b1fe"/>
-  <g transform="translate(400,0) scale(-1,1)">
-    <rect x="120" y="320" width="40" height="40" fill="#d5b1fe"/>
-  </g>
-  <rect x="160" y="320" width="40" height="40" fill="#d5b1fe"/>
-  <g transform="translate(400,0) scale(-1,1)">
-    <rect x="160" y="320" width="40" height="40" fill="#d5b1fe"/>
-  </g>
-  <g>
-    <rect x="0" y="360" width="40" height="40" fill="#d5b1fe"/>
-    <path d="M 40 360 A 40 40 0 0 1 0 400 L 40 400 Z" fill="#973dfe"/>
-  </g>
-  <g transform="translate(400,0) scale(-1,1)">
-    <g>
-      <rect x="0" y="360" width="40" height="40" fill="#d5b1fe"/>
-      <path d="M 40 360 A 40 40 0 0 1 0 400 L 40 400 Z" fill="#973dfe"/>
-    </g>
-  </g>
-  <rect x="40" y="360" width="40" height="40" fill="#d5b1fe"/>
-  <g transform="translate(400,0) scale(-1,1)">
-    <rect x="40" y="360" width="40" height="40" fill="#d5b1fe"/>
-  </g>
-  <rect x="80" y="360" width="40" height="40" fill="#d5b1fe"/>
-  <g transform="translate(400,0) scale(-1,1)">
-    <rect x="80" y="360" width="40" height="40" fill="#d5b1fe"/>
-  </g>
-  <g>
-    <rect x="120" y="360" width="40" height="40" fill="#d5b1fe"/>
-    <path d="M 160 360 A 40 40 0 0 1 120 400 L 160 400 Z" fill="#973dfe"/>
-  </g>
-  <g transform="translate(400,0) scale(-1,1)">
-    <g>
-      <rect x="120" y="360" width="40" height="40" fill="#d5b1fe"/>
-      <path d="M 160 360 A 40 40 0 0 1 120 400 L 160 400 Z" fill="#973dfe"/>
+      <rect x="40" y="320" width="40.4" height="40.4" fill="#d5b1fe"/>
+      <path d="M 40 320 A 40 40.4 0 0 1 80 360.4 L 40 360.4 Z" fill="#973dfe"/>
     </g>
   </g>
   <g>
-    <rect x="160" y="360" width="40" height="40" fill="#d5b1fe"/>
-    <path d="M 200 360 A 40 40 0 0 1 160 400 L 200 400 Z" fill="#973dfe"/>
+    <rect x="80" y="320" width="40.4" height="40.4" fill="#d5b1fe"/>
+    <path d="M 120.4 320 A 40.4 40.4 0 0 1 80 360.4 L 120.4 360.4 Z" fill="#973dfe"/>
   </g>
   <g transform="translate(400,0) scale(-1,1)">
     <g>
-      <rect x="160" y="360" width="40" height="40" fill="#d5b1fe"/>
-      <path d="M 200 360 A 40 40 0 0 1 160 400 L 200 400 Z" fill="#973dfe"/>
+      <rect x="80" y="320" width="40.4" height="40.4" fill="#d5b1fe"/>
+      <path d="M 120.4 320 A 40.4 40.4 0 0 1 80 360.4 L 120.4 360.4 Z" fill="#973dfe"/>
+    </g>
+  </g>
+  <rect x="119.8" y="319.8" width="40.4" height="40.4" fill="#d5b1fe"/>
+  <g transform="translate(400,0) scale(-1,1)">
+    <rect x="119.8" y="319.8" width="40.4" height="40.4" fill="#d5b1fe"/>
+  </g>
+  <rect x="159.8" y="319.8" width="40.4" height="40.4" fill="#d5b1fe"/>
+  <g transform="translate(400,0) scale(-1,1)">
+    <rect x="159.8" y="319.8" width="40.4" height="40.4" fill="#d5b1fe"/>
+  </g>
+  <g>
+    <rect x="0" y="360" width="40.4" height="40.4" fill="#d5b1fe"/>
+    <path d="M 40.4 360 A 40.4 40.4 0 0 1 0 400.4 L 40.4 400.4 Z" fill="#973dfe"/>
+  </g>
+  <g transform="translate(400,0) scale(-1,1)">
+    <g>
+      <rect x="0" y="360" width="40.4" height="40.4" fill="#d5b1fe"/>
+      <path d="M 40.4 360 A 40.4 40.4 0 0 1 0 400.4 L 40.4 400.4 Z" fill="#973dfe"/>
+    </g>
+  </g>
+  <rect x="39.8" y="359.8" width="40.4" height="40.4" fill="#d5b1fe"/>
+  <g transform="translate(400,0) scale(-1,1)">
+    <rect x="39.8" y="359.8" width="40.4" height="40.4" fill="#d5b1fe"/>
+  </g>
+  <rect x="79.8" y="359.8" width="40.4" height="40.4" fill="#d5b1fe"/>
+  <g transform="translate(400,0) scale(-1,1)">
+    <rect x="79.8" y="359.8" width="40.4" height="40.4" fill="#d5b1fe"/>
+  </g>
+  <g>
+    <rect x="120" y="360" width="40.4" height="40.4" fill="#d5b1fe"/>
+    <path d="M 160.4 360 A 40.4 40.4 0 0 1 120 400.4 L 160.4 400.4 Z" fill="#973dfe"/>
+  </g>
+  <g transform="translate(400,0) scale(-1,1)">
+    <g>
+      <rect x="120" y="360" width="40.4" height="40.4" fill="#d5b1fe"/>
+      <path d="M 160.4 360 A 40.4 40.4 0 0 1 120 400.4 L 160.4 400.4 Z" fill="#973dfe"/>
+    </g>
+  </g>
+  <g>
+    <rect x="160" y="360" width="40.4" height="40.4" fill="#d5b1fe"/>
+    <path d="M 200.4 360 A 40.4 40.4 0 0 1 160 400.4 L 200.4 400.4 Z" fill="#973dfe"/>
+  </g>
+  <g transform="translate(400,0) scale(-1,1)">
+    <g>
+      <rect x="160" y="360" width="40.4" height="40.4" fill="#d5b1fe"/>
+      <path d="M 200.4 360 A 40.4 40.4 0 0 1 160 400.4 L 200.4 400.4 Z" fill="#973dfe"/>
     </g>
   </g>
 </svg>
