@@ -23,7 +23,6 @@ func testGenerateSvgRounded2() async throws {
 func testGenerateSvgRoundedLarge() async throws {
     let svg = IdenticonKit.generateSvg(from: "test@example.com", size: .large)
 
-    print(svg)
     let expected = try loadFixture("test_rounded_large.svg")
     #expect(normalizeWhitespace(expected) == normalizeWhitespace(svg))
 }
