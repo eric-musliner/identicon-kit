@@ -1,6 +1,7 @@
 # IdenticonKit
 
 ---
+[![Build Status][ci-svg]][ci-url]
 
 A Cross-platform Swift package for generating unique, block-based identicon images. Perfect for creating consistent default avatars for your users or any data-driven visual representation.
 
@@ -72,3 +73,8 @@ swift test \
   -Xcc -I/usr/include/x86_64-linux-gnu/c++/11 \
   -Xlinker -L/usr/lib/gcc/x86_64-linux-gnu/11
 ```
+
+<!-- Badges -->
+[ci-svg]: https://github.com/eric-musliner/identicon-kit/actions/workflows/ci.yml/badge.svg
+[ci-url]: https://github.com/eric-musliner/identicon-kit/actions/workflows/ci.yml
+
