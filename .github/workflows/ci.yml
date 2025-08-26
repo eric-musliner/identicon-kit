@@ -9,7 +9,7 @@ on:
       - '**/*.md'
 
 jobs:
-  lint:
+  style:
     runs-on: ubuntu-latest
     container: swift:noble
     timeout-minutes: 5
@@ -17,7 +17,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v5
 
-      - name: Lint
+      - name: Check swift format
         run: swift format lint --recursive --strict .
 
   unit-tests:
@@ -54,3 +54,4 @@ jobs:
       - name: Test
         run: |
           swift test --enable-code-coverage --no-parallel
+
