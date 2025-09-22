@@ -81,5 +81,5 @@ swift test \
 [license-url]: LICENSE
 [ci-svg]: https://github.com/eric-musliner/identicon-kit/actions/workflows/ci.yml/badge.svg
 [ci-url]: https://github.com/eric-musliner/identicon-kit/actions/workflows/ci.yml
-[ver-svg]: https://img.shields.io/badge/swift-6.1%20%2F%206.0%20-brightgreen.svg
+[ver-svg]: https://img.shields.io/badge/swift-6.2%20%2F%206.1%20%2F%206.0-brightgreen.svg
 
